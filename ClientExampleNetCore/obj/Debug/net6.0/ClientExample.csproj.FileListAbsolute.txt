@@ -1,0 +1,15 @@
+D:\OneDrive\Projetos\RestExamples\ClientExample\bin\Debug\net6.0\ClientExample.exe
+D:\OneDrive\Projetos\RestExamples\ClientExample\bin\Debug\net6.0\ClientExample.deps.json
+D:\OneDrive\Projetos\RestExamples\ClientExample\bin\Debug\net6.0\ClientExample.runtimeconfig.json
+D:\OneDrive\Projetos\RestExamples\ClientExample\bin\Debug\net6.0\ClientExample.dll
+D:\OneDrive\Projetos\RestExamples\ClientExample\bin\Debug\net6.0\ref\ClientExample.dll
+D:\OneDrive\Projetos\RestExamples\ClientExample\bin\Debug\net6.0\ClientExample.pdb
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.AssemblyInfo.cs
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.dll
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ref\ClientExample.dll
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.pdb
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.genruntimeconfig.cache
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net6.0\ClientExample.csproj.AssemblyReference.cache

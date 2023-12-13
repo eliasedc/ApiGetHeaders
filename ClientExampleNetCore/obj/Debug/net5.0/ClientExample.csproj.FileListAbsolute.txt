@@ -1,0 +1,5 @@
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net5.0\ClientExample.csproj.AssemblyReference.cache
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net5.0\ClientExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net5.0\ClientExample.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net5.0\ClientExample.AssemblyInfo.cs
+D:\OneDrive\Projetos\RestExamples\ClientExample\obj\Debug\net5.0\ClientExample.csproj.CoreCompileInputs.cache
