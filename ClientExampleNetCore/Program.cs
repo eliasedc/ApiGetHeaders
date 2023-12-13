@@ -23,7 +23,8 @@ while (true)
 
 void SendNetCoreRequest(LoginDTO pObjToSend, string pRequestUrl)
 {
-    ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls13;
+    //Example to change ProtocolType
+    //ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls13;
     
     using (HttpClient httpClient = new HttpClient())
     {
